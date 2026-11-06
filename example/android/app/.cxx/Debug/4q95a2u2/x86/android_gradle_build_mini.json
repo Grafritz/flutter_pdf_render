@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/jeanfritzduverseau/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/jeanfritzduverseau/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/jeanfritzduverseau/_Travaux/Projects/Flutter_Plugins/flutter_pdf_render/example/android/app/.cxx/Debug/4q95a2u2/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/jeanfritzduverseau/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/jeanfritzduverseau/_Travaux/Projects/Flutter_Plugins/flutter_pdf_render/example/android/app/.cxx/Debug/4q95a2u2/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
